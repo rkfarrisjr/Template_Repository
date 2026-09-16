@@ -5,24 +5,11 @@ I am a developer focused on building robust applications and automation workflow
 ## 🛠️ Technology Stack
 
 ### Languages & Frameworks
-<table>
-  <tr>
-    <td><img src="https://shields.io" alt="Python" /></td>
-    <td><img src="https://shields.io" alt="TypeScript" /></td>
-    <td><img src="https://shields.io" alt="JavaScript" /></td>
-    <td><img src="https://shields.io" alt="HTML5" /></td>
-  </tr>
-</table>
+[![Python](https://imgur.com)](https://python.org) [![TypeScript](https://imgur.com)](https://typescriptlang.org) [![JavaScript](https://imgur.com)](https://mozilla.org) [![HTML5](https://imgur.com)](https://mozilla.org)
 
 ### DevOps, Automation & Scripting
-<table>
-  <tr>
-    <td><img src="https://shields.io" alt="Docker" /></td>
-    <td><img src="https://shields.io" alt="Shell Script" /></td>
-    <td><img src="https://shields.io" alt="Batchfile" /></td>
-    <td><img src="https://shields.io" alt="Markdown" /></td>
-  </tr>
-</table>
+[![Docker](https://imgur.com)](https://docker.com) [![Shell Script](https://imgur.com)](https://gnu.org) [![Batchfile](https://imgur.com)](https://microsoft.com) [![Markdown](https://imgur.com)](https://daringfireball.net)
+
 
 
 ---
