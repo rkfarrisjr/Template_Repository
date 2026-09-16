@@ -5,16 +5,10 @@ I am a developer focused on building robust applications and automation workflow
 ## 🛠️ Technology Stack
 
 ### Languages & Frameworks
-![Python](https://shields.io)
-![TypeScript](https://shields.io)
-![JavaScript](https://shields.io)
-![HTML5](https://shields.io)
+<img src="https://shields.io" alt="Python" /> <img src="https://shields.io" alt="TypeScript" /> <img src="https://shields.io" alt="JavaScript" /> <img src="https://shields.io" alt="HTML5" />
 
 ### DevOps, Automation & Scripting
-![Docker](https://shields.io)
-![Shell Script](https://shields.io)
-![Batchfile](https://shields.io)
-![Markdown](https://shields.io)
+<img src="https://shields.io" alt="Docker" /> <img src="https://shields.io" alt="Shell Script" /> <img src="https://shields.io" alt="Batchfile" /> <img src="https://shields.io" alt="Markdown" />
 
 ---
 
