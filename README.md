@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Rick! 👋
 
 I am a developer focused on building robust applications and automation workflows. Below is an overview of the core technologies and environments I work with daily across my projects.
 
